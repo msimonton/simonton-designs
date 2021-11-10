@@ -1,0 +1,585 @@
+/* screen - home */
+
+.home {
+  background-color: var(--white);
+  height: 4616px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.home .see-our-case-studies-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 391px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 995px;
+  width: 574px;
+}
+
+.home .slider-xl4bh6 {
+  background-color: transparent;
+  height: 717px;
+  left: 4px;
+  position: absolute;
+  top: 464px;
+  width: 1912px;
+}
+
+.home .contain-46sYsV {
+  background-color: transparent;
+  height: calc(100.00% + 4px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 4px);
+}
+
+.home .pagination-xl4bh6 {
+  background-color: transparent;
+  height: 19px;
+  left: 1698px;
+  position: absolute;
+  top: 692px;
+  width: 123px;
+}
+
+.home .prev-next-YWSBsx {
+  background-color: transparent;
+  color: var(--black-font);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.50px;
+  line-height: 57.4px;
+  position: absolute;
+  text-align: left;
+  top: -19px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home .span0-Le8NuF {
+  color: var(--mountain-mist);
+  font-style: normal;
+}
+
+.home .span1-Le8NuF {
+  font-style: normal;
+}
+
+.home .icons-xl4bh6 {
+  background-color: transparent;
+  height: 22px;
+  left: 76px;
+  position: absolute;
+  top: 964px;
+  width: 155px;
+}
+
+.home .textlabel-OdNwoX {
+  background-color: transparent;
+  color: var(--black-font);
+  font-family: var(--font-family-eleganticons);
+  font-size: 20px;
+  font-style: normal;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: 57.4px;
+  position: absolute;
+  text-align: left;
+  top: -18px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home .desktop-top-menu-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 91px;
+  position: absolute;
+  top: 70px;
+  width: 1702px;
+}
+
+.home .simonton-designs-llc-kCESbg {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 499px;
+}
+
+.home .home-kCESbg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 31px;
+  left: calc(49.28% - 47px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 95px;
+}
+
+.home .portfolio-kCESbg {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(37.90% - 57px);
+  text-align: left;
+  width: 151px;
+}
+
+.home .ux-design-kCESbg {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(22.88% - 33px);
+  text-align: left;
+  width: 144px;
+}
+
+.home .blog-kCESbg {
+  background-color: transparent;
+  bottom: -2px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: 200px;
+  text-align: left;
+  width: 91px;
+}
+
+.home .contact-kCESbg {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 138px;
+}
+
+.home .rectangle-2-xl4bh6 {
+  background-color: var(--white);
+  height: 140px;
+  left: 325px;
+  position: absolute;
+  top: 401px;
+  width: 593px;
+}
+
+.home .path-1-xl4bh6 {
+  background-color: transparent;
+  height: 107px;
+  left: 360px;
+  object-fit: cover;
+  position: absolute;
+  top: 410px;
+  width: 523px;
+}
+
+.home .our-portfolio-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 442px;
+  width: 365px;
+}
+
+.home .the-art-of-web-ment-and-design-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: 1575px;
+}
+
+.home .foot-xl4bh6 {
+  background-color: transparent;
+  height: 163px;
+  left: 0px;
+  position: absolute;
+  top: 4459px;
+  width: 1920px;
+}
+
+.home .base-1QPGYH {
+  background-color: #ececec;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home .text-1QPGYH {
+  background-color: transparent;
+  bottom: calc(46.53% - 9px);
+  height: 19px;
+  left: calc(48.89% - 105px);
+  position: absolute;
+  width: 214px;
+}
+
+.home .x2021-all-rights-reserved-kadZKS {
+  background-color: transparent;
+  color: var(--black-font);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.2px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home .our-services-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 689px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  position: absolute;
+  text-align: left;
+  top: 1380px;
+  width: 545px;
+}
+
+.home .web-development-photo-xl4bh6 {
+  background-color: transparent;
+  height: 496px;
+  left: 180px;
+  object-fit: cover;
+  position: absolute;
+  top: 1522px;
+  width: 496px;
+}
+
+.home .data-photo-xl4bh6 {
+  background-color: transparent;
+  height: 496px;
+  left: 742px;
+  object-fit: cover;
+  position: absolute;
+  top: 1522px;
+  width: 496px;
+}
+
+.home .content-photo-xl4bh6 {
+  background-color: transparent;
+  height: 496px;
+  left: 1304px;
+  object-fit: cover;
+  position: absolute;
+  top: 1522px;
+  width: 496px;
+}
+
+.home .web-app-design-development-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 250px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 1978px;
+  width: 298px;
+}
+
+.home .data-science-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 802px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 1978px;
+  width: 318px;
+}
+
+.home .content-branding-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 1405px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 1978px;
+  width: 254px;
+}
+
+.home .soundtrackmycity-xl4bh6 {
+  background-color: transparent;
+  height: 585px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2332px;
+  width: 1920px;
+}
+
+.home .about-us-xl4bh6 {
+  background-color: transparent;
+  color: #5776ba;
+  font-family: var(--font-family-turnip-medium);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1119px;
+  letter-spacing: 1.50px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 3102px;
+  width: 319px;
+}
+
+.home .man-woman-laptop-xl4bh6 {
+  background-color: transparent;
+  height: 563px;
+  left: 343px;
+  object-fit: cover;
+  position: absolute;
+  top: 3048px;
+  width: 693px;
+}
+
+.home .we-are-a-divers-velopment-needs-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 1119px;
+  letter-spacing: 0.75px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 3190px;
+  width: 579px;
+}
+
+.home .marc-cliff-smilebw-xl4bh6 {
+  background-color: transparent;
+  height: 403px;
+  left: 409px;
+  object-fit: cover;
+  position: absolute;
+  top: 3732px;
+  width: 498px;
+}
+
+.home .meonhalfdomebw-xl4bh6 {
+  background-color: transparent;
+  height: 403px;
+  left: 1118px;
+  object-fit: cover;
+  position: absolute;
+  top: 3732px;
+  width: 498px;
+}
+
+.home .marc-simonton-xl4bh6 {
+  background-color: transparent;
+  color: var(--red-font);
+  font-family: var(--font-family-turnip-medium);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+  height: 51px;
+  left: 454px;
+  letter-spacing: 0.75px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4093px;
+  width: 243px;
+}
+
+.home .liz-simonton-xl4bh6 {
+  background-color: transparent;
+  color: var(--red-font);
+  font-family: var(--font-family-turnip-medium);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+  height: 51px;
+  left: 1179px;
+  letter-spacing: 0.75px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4094px;
+  width: 243px;
+}
+
+.home .software-develo-nt-data-science-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 454px;
+  letter-spacing: 0.75px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4142px;
+  width: 421px;
+}
+
+.home .python-java-scr-pt-react-my-sql-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 454px;
+  letter-spacing: 0.75px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4224px;
+  width: 493px;
+}
+
+.home .ux-design-content-creation-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 1179px;
+  letter-spacing: 0.75px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4152px;
+  width: 394px;
+}
+
+.home .gardenofthegodsclouds2-xl4bh6 {
+  background-color: transparent;
+  height: 585px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2332px;
+  width: 1920px;
+}
+
+.home .group-4-xl4bh6 {
+  background-color: transparent;
+  height: 140px;
+  left: 340px;
+  position: absolute;
+  top: 2277px;
+  width: 593px;
+}
+
+.home .rectangle-8-KjkIae {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.home .path-2-xl4bh6 {
+  background-color: transparent;
+  height: 107px;
+  left: 375px;
+  object-fit: cover;
+  position: absolute;
+  top: 2279px;
+  width: 523px;
+}
+
+.home .ux-design-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 420px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2311px;
+  width: 365px;
+}
+
+.home .read-our-ux-case-studies-xl4bh6 {
+  background-color: transparent;
+  color: var(--red-font);
+  cursor: pointer;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1120px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 3402px;
+  width: 556px;
+}
+
+.home .adobe-xd-photos-ft-office-suite-xl4bh6 {
+  background-color: transparent;
+  height: auto;
+  left: 1179px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4233px;
+  width: 410px;
+}
+
+.home .rectangle-29-xl4bh6 {
+  background-color: #ffffff08;
+  border: 10px solid var(--gray-font);
+  height: 1399px;
+  left: 169px;
+  position: absolute;
+  top: 2993px;
+  width: 1607px;
+}

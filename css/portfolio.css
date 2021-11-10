@@ -1,0 +1,728 @@
+/* screen - portfolio */
+
+.portfolio {
+  background-color: var(--white);
+  height: 6002px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.portfolio .foot-oG8w0l {
+  background-color: transparent;
+  height: 175px;
+  left: 91px;
+  position: absolute;
+  top: 5646px;
+  width: 1660px;
+}
+
+.portfolio .icons-xHM9ge {
+  background-color: transparent;
+  bottom: 0px;
+  height: 17px;
+  position: absolute;
+  right: calc(48.80% - 65px);
+  width: 133px;
+}
+
+.portfolio .textlabel-QRXvb5 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 3.75px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.portfolio .span0-DZTmbT {
+}
+
+.portfolio .span1-DZTmbT {
+}
+
+.portfolio .span2-DZTmbT {
+}
+
+.portfolio .text-xHM9ge {
+  background-color: transparent;
+  bottom: calc(28.21% - 5px);
+  height: 19px;
+  left: calc(50.00% - 196px);
+  position: absolute;
+  width: 392px;
+}
+
+.portfolio .x2021-simonton-d-rights-reserved-MeehmX {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.2px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.portfolio .line-xHM9ge {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.portfolio .line-tqTCYv {
+  background-color: var(--celeste);
+  height: 100%;
+  left: 0px;
+  opacity: 0.5;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.portfolio .view-more-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 911px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 3020px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio .line-oG8w0l {
+  background-color: var(--black-font);
+  height: 2px;
+  left: 925px;
+  position: absolute;
+  top: 2999px;
+  width: 70px;
+}
+
+.portfolio .all-ux-design-w-lopment-content-oG8w0l {
+  background-color: transparent;
+  color: var(--mountain-mist);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 566px;
+  letter-spacing: 0.38px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 751px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio .span0-TcG7kE {
+  font-style: normal;
+}
+
+.portfolio .span1-TcG7kE {
+  font-style: normal;
+  font-weight: 400;
+}
+
+.portfolio .image-oG8w0l {
+  background-color: transparent;
+  height: 751px;
+  left: 173px;
+  position: absolute;
+  top: 130px;
+  width: 1660px;
+}
+
+.portfolio .contain-rEnTxI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.portfolio .text-oG8w0l {
+  background-color: transparent;
+  height: 19px;
+  left: 252px;
+  position: absolute;
+  top: 439px;
+  width: 974px;
+}
+
+.portfolio .we-understand-t-y-communication-jizJwE {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.portfolio .span0-q3EEJY {
+}
+
+.portfolio .span1-q3EEJY {
+}
+
+.portfolio .span2-q3EEJY {
+}
+
+.portfolio .line-AfwD5I {
+  background-color: transparent;
+  height: 2px;
+  left: 82px;
+  position: absolute;
+  top: 443px;
+  width: 128px;
+}
+
+.portfolio .line-UtxiYx {
+  background-color: #303030;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.portfolio .title-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 57.4px;
+  position: absolute;
+  text-align: left;
+  top: 346px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio .screen-shot-202-20-at-13424-pm-oG8w0l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 581px;
+  left: 117px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 940px;
+  transition: all 0.2s ease;
+  width: 581px;
+}
+
+.portfolio .screen-shot-202-20-at-13424-pm-oG8w0l:hover {
+  transform: scale(1.1);
+}
+
+.portfolio .screen-shot-202-20-at-35933-pm-oG8w0l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 581px;
+  left: 363px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2153px;
+  transition: all 0.2s ease;
+  width: 581px;
+}
+
+.portfolio .screen-shot-202-20-at-35933-pm-oG8w0l:hover {
+  transform: scale(1.1);
+}
+
+.portfolio .screen-shot-202-20-at-40235-pm-oG8w0l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 581px;
+  left: 117px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1542px;
+  transition: all 0.2s ease;
+  width: 581px;
+}
+
+.portfolio .screen-shot-202-20-at-40235-pm-oG8w0l:hover {
+  transform: scale(1.1);
+}
+
+.portfolio .screen-shot-202-20-at-40959-pm-oG8w0l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 581px;
+  left: 700px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 1542px;
+  transition: all 0.2s ease;
+  width: 581px;
+}
+
+.portfolio .screen-shot-202-20-at-40959-pm-oG8w0l:hover {
+  transform: scale(1.1);
+}
+
+.portfolio .screen-shot-202-22-at-92209-am-oG8w0l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 581px;
+  left: 683px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 940px;
+  transition: all 0.2s ease;
+  width: 581px;
+}
+
+.portfolio .screen-shot-202-22-at-92209-am-oG8w0l:hover {
+  transform: scale(1.1);
+}
+
+.portfolio .screen-shot-202-20-at-40543-pm-oG8w0l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 581px;
+  left: 1257px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1542px;
+  transition: all 0.2s ease;
+  width: 581px;
+}
+
+.portfolio .screen-shot-202-20-at-40543-pm-oG8w0l:hover {
+  transform: scale(1.1);
+}
+
+.portfolio .imgee84-feb81-b96-1-oG8w0l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 581px;
+  left: 1257px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 947px;
+  transition: all 0.2s ease;
+  width: 581px;
+}
+
+.portfolio .imgee84-feb81-b96-1-oG8w0l:hover {
+  transform: scale(1.1);
+}
+
+.portfolio .mari-logo-on-gift-bag-oG8w0l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 581px;
+  left: 983px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2159px;
+  transition: all 0.2s ease;
+  width: 581px;
+}
+
+.portfolio .mari-logo-on-gift-bag-oG8w0l:hover {
+  transform: scale(1.1);
+}
+
+.portfolio .rectangle-9-oG8w0l {
+  background-color: var(--white);
+  height: 103px;
+  left: 106px;
+  position: absolute;
+  top: 1363px;
+  width: 327px;
+}
+
+.portfolio .rectangle-13-oG8w0l {
+  background-color: var(--white);
+  height: 103px;
+  left: 117px;
+  position: absolute;
+  top: 1977px;
+  width: 327px;
+}
+
+.portfolio .rectangle-14-oG8w0l {
+  background-color: var(--white);
+  height: 103px;
+  left: 695px;
+  position: absolute;
+  top: 1998px;
+  width: 327px;
+}
+
+.portfolio .rectangle-15-oG8w0l {
+  background-color: var(--white);
+  height: 103px;
+  left: 349px;
+  position: absolute;
+  top: 2608px;
+  width: 327px;
+}
+
+.portfolio .rectangle-16-oG8w0l {
+  background-color: var(--white);
+  height: 103px;
+  left: 117px;
+  position: absolute;
+  top: 2642px;
+  width: 327px;
+}
+
+.portfolio .rectangle-17-oG8w0l {
+  background-color: var(--white);
+  height: 103px;
+  left: 981px;
+  position: absolute;
+  top: 2608px;
+  width: 327px;
+}
+
+.portfolio .rectangle-10-oG8w0l {
+  background-color: var(--white);
+  height: 103px;
+  left: 668px;
+  position: absolute;
+  top: 1375px;
+  width: 327px;
+}
+
+.portfolio .rectangle-11-oG8w0l {
+  background-color: var(--white);
+  height: 103px;
+  left: 1249px;
+  position: absolute;
+  top: 1385px;
+  width: 327px;
+}
+
+.portfolio .rectangle-12-oG8w0l {
+  background-color: var(--white);
+  height: 103px;
+  left: 1249px;
+  position: absolute;
+  top: 1997px;
+  width: 327px;
+}
+
+.portfolio .our-portfolio-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 413px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2523px;
+  width: 365px;
+}
+
+.portfolio .photo-recognition-app-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1385px;
+  width: 329px;
+}
+
+.portfolio .ace-pediatric-therapy-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1999px;
+  width: 329px;
+}
+
+.portfolio .house-demolition-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 714px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2020px;
+  width: 329px;
+}
+
+.portfolio .non-profit-website-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 368px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2630px;
+  width: 329px;
+}
+
+.portfolio .studio-m-logo-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 1000px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2630px;
+  width: 329px;
+}
+
+.portfolio .start-a-business-app-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 687px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1397px;
+  width: 329px;
+}
+
+.portfolio .photography-travel-app-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 1267px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1405px;
+  width: 329px;
+}
+
+.portfolio .flower-ordering-app-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 1268px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2019px;
+  width: 329px;
+}
+
+.portfolio .data-python-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 211px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1420px;
+  width: 224px;
+}
+
+.portfolio .web-development-wordpress-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 184px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2029px;
+  width: 218px;
+}
+
+.portfolio .aerial-photogra-y-video-editing-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2057px;
+  width: 224px;
+}
+
+.portfolio .web-development-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 436px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2667px;
+  width: 224px;
+}
+
+.portfolio .logo-branding-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 1068px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2667px;
+  width: 224px;
+}
+
+.portfolio .ux-web-development-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 727px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1434px;
+  width: 250px;
+}
+
+.portfolio .ux-web-development-content-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 1298px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1437px;
+  width: 267px;
+}
+
+.portfolio .ux-design-oG8w0l {
+  background-color: transparent;
+  height: auto;
+  left: 1336px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2056px;
+  width: 224px;
+}
+
+.portfolio .desktop-top-menu-oG8w0l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 110px;
+  position: absolute;
+  top: 45px;
+  width: 1702px;
+}
+
+.portfolio .simonton-designs-llc-pkW1eh {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 499px;
+}
+
+.portfolio .home-pkW1eh {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  left: calc(49.28% - 47px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 95px;
+}
+
+.portfolio .portfolio-pkW1eh {
+  background-color: transparent;
+  bottom: 0px;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(37.90% - 57px);
+  text-align: left;
+  width: 151px;
+}
+
+.portfolio .ux-design-pkW1eh {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(22.88% - 33px);
+  text-align: left;
+  width: 144px;
+}
+
+.portfolio .blog-pkW1eh {
+  background-color: transparent;
+  bottom: -2px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: 200px;
+  text-align: left;
+  width: 91px;
+}
+
+.portfolio .contact-pkW1eh {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 138px;
+}

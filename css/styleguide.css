@@ -1,0 +1,169 @@
+:root { 
+  --black-font: #000000;
+  --bon-jour: #e0e0e0;
+  --celeste: #cccccc;
+  --cinnabar: #ea3e3e;
+  --granite-gray: #666666;
+  --gray-font: #707070;
+  --mine-shaft: #333333;
+  --mountain-mist: #999999;
+  --red-font: #cc3333;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 15px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 25px;
+  --font-size-xxxxl: 30px;
+  --font-size-xxxxxl: 36px;
+ 
+  --font-family-eleganticons: "ElegantIcons", Helvetica;
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-nunito: "Nunito", Helvetica;
+  --font-family-nunito_sans: "Nunito Sans", Helvetica;
+  --font-family-turnip-medium: "Turnip-Medium", Helvetica;
+}
+.montserrat-normal-dove-gray-24px {
+  color: var(--gray-font);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.eleganticons-normal-celeste-15px {
+  color: var(--celeste);
+  font-family: var(--font-family-eleganticons);
+  font-size: var(--font-size-m);
+  font-style: normal;
+}
+
+.montserrat-normal-black-25px {
+  color: var(--black-font);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-black-20px {
+  color: var(--black-font);
+  font-family: var(--font-family-montserrat);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-bold-black-80px {
+  color: var(--black-font);
+  font-family: var(--font-family-montserrat);
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-normal-mine-shaft-16px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-bold-dove-gray-36px {
+  color: var(--gray-font);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-normal-persian-red-24px {
+  color: var(--red-font);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-mine-shaft-18px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-cinnabar-18px {
+  color: var(--cinnabar);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.turnip-medium-black-30px {
+  color: var(--black-font);
+  font-family: var(--font-family-turnip-medium);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.eleganticons-normal-black-15px {
+  color: var(--black-font);
+  font-family: var(--font-family-eleganticons);
+  font-size: var(--font-size-m);
+  font-style: normal;
+}
+
+.montserrat-normal-granite-gray-15px {
+  color: var(--granite-gray);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-cinnabar-18px-2 {
+  color: var(--cinnabar);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+}
+
+.montserrat-bold-black-15px {
+  color: var(--black-font);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunitosans-bold-black-19px {
+  color: var(--black-font);
+  font-family: var(--font-family-nunito_sans);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.turnip-medium-black-45px {
+  color: var(--black-font);
+  font-family: var(--font-family-turnip-medium);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-bon-jour {
+  border: 1px solid var(--bon-jour);
+}

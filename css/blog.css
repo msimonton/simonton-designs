@@ -1,0 +1,209 @@
+/* screen - blog */
+
+.blog {
+  background-color: transparent;
+  height: 2283px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.blog .bg-Sx52uh {
+  background-color: transparent;
+  height: 2283px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 294px;
+  width: 1920px;
+}
+
+.blog .foot-Sx52uh {
+  background-color: transparent;
+  height: 175px;
+  left: 130px;
+  position: absolute;
+  top: 1980px;
+  width: 1660px;
+}
+
+.blog .icons-sDLo5j {
+  background-color: transparent;
+  bottom: 0px;
+  height: 17px;
+  position: absolute;
+  right: calc(48.80% - 65px);
+  width: 133px;
+}
+
+.blog .textlabel-DOdL5L {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 3.75px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.blog .span0-LoNpe0 {
+}
+
+.blog .span1-LoNpe0 {
+}
+
+.blog .span2-LoNpe0 {
+}
+
+.blog .text-sDLo5j {
+  background-color: transparent;
+  bottom: calc(28.21% - 5px);
+  height: 19px;
+  left: calc(50.00% - 202px);
+  position: absolute;
+  width: 404px;
+}
+
+.blog .x2021-simonton-d-rights-reserved-RxEYaV {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.2px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.blog .logo-sDLo5j {
+  background-color: transparent;
+  height: 19px;
+  left: calc(50.00% - 55px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(43.59% - 8px);
+  width: 110px;
+}
+
+.blog .line-sDLo5j {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.blog .line-l651Cd {
+  background-color: var(--celeste);
+  height: 100%;
+  left: 0px;
+  opacity: 0.5;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.blog .blog-news-Sx52uh {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  position: absolute;
+  text-align: left;
+  top: 501px;
+  width: 742px;
+}
+
+.blog .desktop-top-menu-Sx52uh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 58px;
+  position: absolute;
+  top: 76px;
+  width: 1702px;
+}
+
+.blog .simonton-designs-llc-AyFFEo {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 499px;
+}
+
+.blog .home-AyFFEo {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  left: calc(49.28% - 47px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 95px;
+}
+
+.blog .portfolio-AyFFEo {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(37.90% - 57px);
+  text-align: left;
+  width: 151px;
+}
+
+.blog .ux-design-AyFFEo {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(22.88% - 33px);
+  text-align: left;
+  width: 144px;
+}
+
+.blog .blog-AyFFEo {
+  background-color: transparent;
+  bottom: -2px;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: 200px;
+  text-align: left;
+  width: 91px;
+}
+
+.blog .contact-AyFFEo {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 138px;
+}

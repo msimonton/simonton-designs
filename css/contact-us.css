@@ -1,0 +1,590 @@
+/* screen - contact-us */
+
+.contact-us {
+  background-color: transparent;
+  height: 2283px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.contact-us .bg-q2xQ3x {
+  background-color: transparent;
+  height: 2283px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 243px;
+  width: 1920px;
+}
+
+.contact-us .section-q2xQ3x {
+  background-color: transparent;
+  height: 787px;
+  left: 220px;
+  position: absolute;
+  top: 423px;
+  width: 1480px;
+}
+
+.contact-us .section-6u58Y0 {
+  background-color: var(--white);
+  box-shadow: 0px 30px 60px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.contact-us .contact-copy-6u58Y0 {
+  background-color: transparent;
+  height: 169px;
+  left: 106px;
+  position: absolute;
+  top: calc(25.08% - 42px);
+  width: 549px;
+}
+
+.contact-us .email-call-or-s-d-work-together-bpBBv0 {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-nunito_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 113px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(103.57% - 117px);
+  width: 551px;
+}
+
+.contact-us .lets-connect-bpBBv0 {
+  background-color: transparent;
+  color: var(--black-font);
+  font-family: var(--font-family-nunito);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: 49px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: calc(5.00% - 2px);
+  white-space: nowrap;
+  width: 214px;
+}
+
+.contact-us .form-wrapper-6u58Y0 {
+  background-color: #f5f5f5;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 740px;
+}
+
+.contact-us .contact-info-6u58Y0 {
+  background-color: transparent;
+  bottom: calc(42.95% - 65px);
+  height: 152px;
+  left: 106px;
+  position: absolute;
+  width: 273px;
+}
+
+.contact-us .lizsimontongmailcom-5fcaO7 {
+  background-color: transparent;
+  height: 28px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: calc(2.81% - 1px);
+  white-space: nowrap;
+  width: 221px;
+}
+
+.contact-us .x1-719-321-7887-5fcaO7 {
+  background-color: transparent;
+  bottom: calc(49.77% - 14px);
+  height: 28px;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.contact-us .colorado-springs-co-5fcaO7 {
+  background-color: transparent;
+  bottom: calc(2.34% - 1px);
+  height: 28px;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 191px;
+}
+
+.contact-us .email-5fcaO7 {
+  background-color: transparent;
+  height: 26px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0.79%;
+  width: 35px;
+}
+
+.contact-us .marker-5fcaO7 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 37px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  width: 27px;
+}
+
+.contact-us .phone-1-5fcaO7 {
+  background-color: transparent;
+  height: 30px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.28% - 14px);
+  width: 30px;
+}
+
+.contact-us .rectangle-23-6u58Y0 {
+  background-color: var(--white);
+  height: 46px;
+  left: 848px;
+  position: absolute;
+  top: 204px;
+  width: calc(100.00% - 956px);
+}
+
+.contact-us .rectangle-24-6u58Y0 {
+  background-color: var(--white);
+  height: 46px;
+  left: 848px;
+  position: absolute;
+  top: calc(40.49% - 19px);
+  width: 256px;
+}
+
+.contact-us .rectangle-28-6u58Y0 {
+  background-color: var(--white);
+  height: 46px;
+  position: absolute;
+  right: 108px;
+  top: calc(40.49% - 19px);
+  width: 256px;
+}
+
+.contact-us .rectangle-26-6u58Y0 {
+  background-color: var(--white);
+  bottom: calc(46.56% - 21px);
+  height: 46px;
+  left: 848px;
+  position: absolute;
+  width: calc(100.00% - 956px);
+}
+
+.contact-us .rectangle-27-6u58Y0 {
+  background-color: var(--white);
+  bottom: 200px;
+  height: 94px;
+  left: 848px;
+  position: absolute;
+  width: calc(100.00% - 956px);
+}
+
+.contact-us .first-last-name-6u58Y0 {
+  background-color: transparent;
+  height: 24px;
+  left: 848px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 179px;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.contact-us .span0-aE7w6w {
+}
+
+.contact-us .span1-aE7w6w {
+}
+
+.contact-us .phone-number-6u58Y0 {
+  background-color: transparent;
+  height: 24px;
+  left: 848px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.91% - 9px);
+  white-space: nowrap;
+  width: 152px;
+}
+
+.contact-us .span0-p16EPd {
+}
+
+.contact-us .span1-p16EPd {
+}
+
+.contact-us .email-address-6u58Y0 {
+  background-color: transparent;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(16.72% - 23px);
+  text-align: left;
+  top: calc(35.91% - 9px);
+  white-space: nowrap;
+  width: 140px;
+}
+
+.contact-us .span0-7hgibC {
+}
+
+.contact-us .span1-7hgibC {
+}
+
+.contact-us .company-name-optional-6u58Y0 {
+  background-color: transparent;
+  height: 24px;
+  left: 848px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(48.49% - 12px);
+  white-space: nowrap;
+  width: 238px;
+}
+
+.contact-us .message-6u58Y0 {
+  background-color: transparent;
+  bottom: calc(38.93% - 9px);
+  height: 24px;
+  left: 848px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.contact-us .span0-83gkBe {
+}
+
+.contact-us .span1-83gkBe {
+}
+
+.contact-us .fields-required-6u58Y0 {
+  background-color: transparent;
+  bottom: calc(21.61% - 5px);
+  height: 21px;
+  left: 863px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 122px;
+}
+
+.contact-us .x-6u58Y0 {
+  background-color: transparent;
+  bottom: calc(21.10% - 5px);
+  height: 24px;
+  left: 852px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 9px;
+}
+
+.contact-us .your-message-here-6u58Y0 {
+  background-color: transparent;
+  bottom: calc(32.90% - 8px);
+  color: #a0a0a0;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 872px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 186px;
+}
+
+.contact-us .path-59-6u58Y0 {
+  background-color: transparent;
+  height: 6.23%;
+  left: 57.30%;
+  object-fit: cover;
+  position: absolute;
+  top: 81.07%;
+  width: 16.55%;
+}
+
+.contact-us .contact-us-now-6u58Y0 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  height: 4.07%;
+  left: 60.07%;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 82.85%;
+  white-space: nowrap;
+  width: 11.22%;
+}
+
+.contact-us .send-us-a-message-6u58Y0 {
+  background-color: transparent;
+  color: var(--black-font);
+  font-family: var(--font-family-nunito);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: 49px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  right: calc(27.46% - 85px);
+  text-align: left;
+  top: 106px;
+  white-space: nowrap;
+  width: 311px;
+}
+
+.contact-us .line-1-6u58Y0 {
+  background-color: transparent;
+  bottom: calc(25.80% - 1px);
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 110px;
+  width: 3px;
+}
+
+.contact-us .line-2-6u58Y0 {
+  background-color: transparent;
+  bottom: calc(25.95% - 2px);
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 110px;
+  width: 8px;
+}
+
+.contact-us .desktop-top-menu-q2xQ3x {
+  background-color: transparent;
+  height: 44px;
+  left: 66px;
+  position: absolute;
+  top: 75px;
+  width: 1702px;
+}
+
+.contact-us .simonton-designs-llc-EZAyjS {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 499px;
+}
+
+.contact-us .home-EZAyjS {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  left: calc(49.28% - 47px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 95px;
+}
+
+.contact-us .portfolio-EZAyjS {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(37.90% - 57px);
+  text-align: left;
+  width: 151px;
+}
+
+.contact-us .ux-design-EZAyjS {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(22.88% - 33px);
+  text-align: left;
+  width: 144px;
+}
+
+.contact-us .blog-EZAyjS {
+  background-color: transparent;
+  bottom: -2px;
+  cursor: pointer;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: 200px;
+  text-align: left;
+  width: 91px;
+}
+
+.contact-us .contact-EZAyjS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 31px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 138px;
+}
+
+.contact-us .foot-q2xQ3x {
+  background-color: transparent;
+  height: 175px;
+  left: 116px;
+  position: absolute;
+  top: 1385px;
+  width: 1660px;
+}
+
+.contact-us .icons-xZ8r0t {
+  background-color: transparent;
+  bottom: 0px;
+  height: 17px;
+  position: absolute;
+  right: calc(48.80% - 65px);
+  width: 133px;
+}
+
+.contact-us .textlabel-YfCVkY {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 3.75px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.contact-us .span0-gXKWP3 {
+}
+
+.contact-us .span1-gXKWP3 {
+}
+
+.contact-us .span2-gXKWP3 {
+}
+
+.contact-us .text-xZ8r0t {
+  background-color: transparent;
+  bottom: calc(28.21% - 5px);
+  height: 19px;
+  left: calc(50.00% - 202px);
+  position: absolute;
+  width: 404px;
+}
+
+.contact-us .x2021-simonton-d-rights-reserved-GZFeTC {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.2px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.contact-us .logo-xZ8r0t {
+  background-color: transparent;
+  height: 19px;
+  left: calc(50.00% - 55px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(43.59% - 8px);
+  width: 110px;
+}
+
+.contact-us .line-xZ8r0t {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.contact-us .line-Oz9WKx {
+  background-color: var(--celeste);
+  height: 100%;
+  left: 0px;
+  opacity: 0.5;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
