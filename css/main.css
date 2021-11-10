@@ -1,0 +1,40 @@
+.main-wrapper {
+  width: 100%;
+  padding: 0px;
+}
+
+.header-container {
+  width: 100%;
+  background-color: blue;
+}
+
+.header-row {
+  width: 100%;
+  background-color: yellow;
+}
+
+.simo-designs-header-wrapper {
+  font-size: 32px;
+}
+
+.simo-designs-header-name {
+  font: montserrat-bold-dove;
+  color: grey;
+  font-size: calc(1rem + .9vw);
+  /* font-size: 30px; */
+}
+
+.menu-wrapper {
+  /* width: 100%; */
+  display: flex;
+  justify-content: space-around;
+  font-size: 24px;
+}
+
+.menu-item {
+  display: flex;
+  font: montserrat-normal-dove-gray-24px;
+  background-color: pink;
+  align-items: center;
+  font-size: calc(1rem + .1vw);
+}
