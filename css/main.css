@@ -1,16 +1,18 @@
 .main-wrapper {
   width: 100%;
   padding: 0px;
+  font: montserrat;
 }
 
 .header-container {
   width: 100%;
-  background-color: blue;
 }
 
-.header-row {
+.header {
   width: 100%;
-  background-color: yellow;
+  /* padding: 0px 20px 0px 20px; */
+  margin-left: 50px;
+  margin-top: 30px;
 }
 
 .simo-designs-header-wrapper {
@@ -18,14 +20,16 @@
 }
 
 .simo-designs-header-name {
-  font: montserrat-bold-dove;
+  font-family: var(--font-family-montserrat);
+  font-weight: 700;
   color: grey;
-  font-size: calc(1rem + .9vw);
+  font-size: calc(1rem + .95vw);
+  font-weight: bold;
   /* font-size: 30px; */
 }
 
 .menu-wrapper {
-  /* width: 100%; */
+  width: 100%;
   display: flex;
   justify-content: space-around;
   font-size: 24px;
@@ -33,8 +37,90 @@
 
 .menu-item {
   display: flex;
-  font: montserrat-normal-dove-gray-24px;
-  background-color: pink;
+  /* display: inline-block; */
   align-items: center;
   font-size: calc(1rem + .1vw);
+}
+
+.menu-item > a {
+  text-decoration: none;
+  font: montserrat;
+  color: gray;
+}
+
+.landing-quote {
+  width: 100%;
+  font-size: 80px;
+  margin-bottom: 30px;
+}
+
+.landing-quote h1 {
+  font: montserrat;
+  font-weight: bold;
+  font-size: calc(1rem + 3.4vw);
+  /* font-size: 80px; */
+  padding: 20px 50px 20px 50px;
+}
+
+.landing-pic-container {
+  position: relative;
+  width: 100%;
+  background-image: url('../img/snow-cliff.png');
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  margin-top: 30px;
+}
+
+.landing-pic {
+  width: 100%;
+  height: auto;
+}
+
+.landing-portfolio-link-wrapper {
+  background-color: white;
+  position: absolute;
+  left: 200px;
+  top: -40px;
+  /* height: 40px; */
+  padding: 10px 20px 10px 20px;
+}
+
+.landing-portfolio-link {
+  background-color: #cc3333;
+  padding: 15px 25px 15px 25px;
+  font-size: 20px;
+  color: white;
+  font: montserrat;
+  letter-spacing: 2px;
+}
+
+.services-wrapper {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.services-item-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.services-item {
+  text-align: center;
+}
+
+.services-item-pic {
+  max-width: 400px;
+}
+
+.services-item-text {
+  display: flex;
+  /* text-align: center; */
+  justify-content: center;
+  max-width: 200px;
+  font: montserrat;
+  top: -10px;
+
 }
