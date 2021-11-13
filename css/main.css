@@ -2,6 +2,7 @@
   width: 100%;
   padding: 0px;
   font: montserrat;
+  overflow: hidden;
 }
 
 .header-container {
@@ -109,18 +110,98 @@
 
 .services-item {
   text-align: center;
+  justify-content: center;
+  align-items: center;
 }
 
 .services-item-pic {
   max-width: 400px;
+  padding-left: 35px;
 }
 
 .services-item-text {
-  display: flex;
+  text-align: center;
+  /* display: flex; */
   /* text-align: center; */
-  justify-content: center;
-  max-width: 200px;
+  /* justify-content: center; */
+  /* max-width: 200px; */
   font: montserrat;
   top: -10px;
+  font-size: 28px;
+  /* align-items: center; */
 
+}
+
+.about-us-wrapper {
+  margin-top: 40px;
+  width: 100%;
+  border: 8px solid gray;
+  padding-top: 30px;
+}
+
+.about-pic {
+ /* background-image: url(../img/animated-laptop.png);
+ background-position: center;
+ background-size: cover;
+ width: 650px; */
+}
+
+.about-pic > img {
+  width: 100%;
+}
+
+.about-text {
+  text-align: center;
+  font: montserrat;
+}
+
+.about-text > h2 {
+  font: montserrat;
+  font-size: 40px;
+  color: #5776ba;
+  margin: 35px 0px 35px 0px
+}
+
+.about-text > p {
+  font: montserrat;
+  font-size: 20px;
+  margin: 20px 0px 20px 0px;
+}
+
+.about-case-studies-link {
+  font: montserrat;
+  font-size: 24px;
+  color: #ce3939;
+  margin-top: 30px;
+}
+
+.our-info {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.info-marc, .info-liz {
+  text-align: center;
+  position: relative;
+}
+
+.info-marc > img, .info-liz > img {
+  max-width: 500px;
+}
+
+.info-marc > p, .info-liz > p {
+  font-size: 18px;
+  font: montserrat;
+  margin-top: -15px;
+
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 70px;
+  background-color: #ececec;
+  margin-top: 40px;
 }
