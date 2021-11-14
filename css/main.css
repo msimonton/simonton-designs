@@ -1,0 +1,208 @@
+.main-wrapper {
+  width: 100%;
+  padding: 0px;
+  font-family: 'Montserrat', sans-serif;
+  overflow: hidden;
+}
+
+.header-container {
+  width: 100%;
+}
+
+.header {
+  width: 100%;
+  /* padding: 0px 20px 0px 20px; */
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.simo-designs-header-wrapper {
+  font-size: 32px;
+}
+
+.simo-designs-header-name {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: grey;
+  font-size: calc(1rem + .95vw);
+  font-weight: bold;
+  /* font-size: 30px; */
+}
+
+.menu-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  font-size: 24px;
+}
+
+.menu-item {
+  display: flex;
+  /* display: inline-block; */
+  align-items: center;
+  font-size: calc(1rem + .1vw);
+}
+
+.menu-item > a {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: gray;
+}
+
+.landing-quote {
+  width: 100%;
+  font-size: 80px;
+  margin-bottom: 30px;
+}
+
+.landing-quote h1 {
+  font-family: 'Montserrat', sans-serif;
+  /* font-weight: bold; */
+  font-size: calc(1rem + 2.8vw);
+  /* font-size: 80px; */
+  padding: 20px 50px 20px 50px;
+  margin-top: 20px;
+}
+
+.landing-pic-container {
+  position: relative;
+  width: 100%;
+  background-image: url('../img/snow-cliff.png');
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  margin-top: 30px;
+}
+
+.landing-pic {
+  width: 100%;
+  height: auto;
+}
+
+.landing-portfolio-link-wrapper {
+  background-color: white;
+  position: absolute;
+  left: 200px;
+  top: -40px;
+  /* height: 40px; */
+  padding: 10px 20px 10px 20px;
+}
+
+.landing-portfolio-link {
+  background-color: #cc3333;
+  padding: 15px 25px 15px 25px;
+  font-size: 20px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+}
+
+.services-wrapper {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.services-item-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.services-item {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.services-item-pic {
+  max-width: 400px;
+  padding-left: 35px;
+}
+
+.services-item-text {
+  text-align: center;
+  /* display: flex; */
+  /* text-align: center; */
+  /* justify-content: center; */
+  /* max-width: 200px; */
+  font: montserrat;
+  top: -10px;
+  font-size: 28px;
+  /* align-items: center; */
+
+}
+
+.about-us-wrapper {
+  margin-top: 40px;
+  width: 100%;
+  border: 8px solid gray;
+  padding-top: 30px;
+}
+
+.about-pic {
+ /* background-image: url(../img/animated-laptop.png);
+ background-position: center;
+ background-size: cover;
+ width: 650px; */
+}
+
+.about-pic > img {
+  width: 100%;
+}
+
+.about-text {
+  text-align: center;
+  font: montserrat;
+}
+
+.about-text > h2 {
+  font: montserrat;
+  font-size: 40px;
+  color: #5776ba;
+  margin: 35px 0px 35px 0px
+}
+
+.about-text > p {
+  font: montserrat;
+  font-size: 20px;
+  margin: 20px 0px 20px 0px;
+}
+
+.about-case-studies-link {
+  font: montserrat;
+  font-size: 24px;
+  color: #ce3939;
+  margin-top: 30px;
+}
+
+.our-info {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.info-marc, .info-liz {
+  text-align: center;
+  position: relative;
+}
+
+.info-marc > img, .info-liz > img {
+  max-width: 500px;
+}
+
+.info-marc > p, .info-liz > p {
+  font-size: 18px;
+  font: montserrat;
+  margin-top: -15px;
+
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 70px;
+  background-color: #ececec;
+  margin-top: 40px;
+}

@@ -3,10 +3,9 @@
 .home {
   background-color: var(--white);
   height: 4616px;
-  overflow: hidden;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
   position: relative;
-  width: 1920px;
+  width: 100%;
 }
 
 .home .see-our-case-studies-xl4bh6 {
