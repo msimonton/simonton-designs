@@ -1,7 +1,7 @@
 .main-wrapper {
   width: 100%;
   padding: 0px;
-  font: montserrat;
+  font-family: 'Montserrat', sans-serif;
   overflow: hidden;
 }
 
@@ -21,7 +21,7 @@
 }
 
 .simo-designs-header-name {
-  font-family: var(--font-family-montserrat);
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   color: grey;
   font-size: calc(1rem + .95vw);
@@ -45,7 +45,7 @@
 
 .menu-item > a {
   text-decoration: none;
-  font: montserrat;
+  font-family: 'Montserrat', sans-serif;
   color: gray;
 }
 
@@ -56,11 +56,12 @@
 }
 
 .landing-quote h1 {
-  font: montserrat;
-  font-weight: bold;
-  font-size: calc(1rem + 3.4vw);
+  font-family: 'Montserrat', sans-serif;
+  /* font-weight: bold; */
+  font-size: calc(1rem + 2.8vw);
   /* font-size: 80px; */
   padding: 20px 50px 20px 50px;
+  margin-top: 20px;
 }
 
 .landing-pic-container {
@@ -92,7 +93,7 @@
   padding: 15px 25px 15px 25px;
   font-size: 20px;
   color: white;
-  font: montserrat;
+  font-family: 'Montserrat', sans-serif;
   letter-spacing: 2px;
 }
 
