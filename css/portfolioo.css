@@ -1,0 +1,163 @@
+body {
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* .portfolio-container {
+  width: 100%!important;
+}
+
+ */
+
+
+/*
+.bg-light {
+  background-color: white !important;
+  margin-top: 40px !important;
+}
+
+
+.navbar-container {
+}
+
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: grey !important;
+  font-size: calc(1rem + 1vw);
+}
+
+#navbarItemWrapper {
+  width: 100%;
+  justify-content: space-around;
+
+}
+
+.navbar-link-wrapper {
+  justify-content: center;
+  font-size: calc(1rem + .1vw);
+}
+
+.nav-link {
+  font-size: 20px;
+}
+
+ */
+
+
+
+
+
+.portfolio-wrapper {
+  width: 100% !important;
+  padding: 0px;
+  /* margin-right: 0px !important; */
+}
+
+.portfolio-landing-container{
+  width: 100%;
+  margin: 0px;
+  background-image: url("../img/liz-rock-full-width.png");
+  /* background-color: black; */
+  background-position: center;
+  height: 70vh;
+
+}
+
+.portolio-landing-text-wrapper {
+  margin: 60px;
+}
+
+.our-portfolio-text {
+  padding-top: 80px;
+  font-weight: 600;
+  font-size: calc(1rem + 3vw);
+}
+
+.portfolio-landing-text {
+  color: #ededed;
+}
+
+.portfolio-items-wrapper {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.portfolio-item > img {
+  max-width: 100%;
+  transition: all .2s ease-in-out;
+}
+
+
+
+
+.portfolio-items-wrappers {
+  margin-top:40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap:  wrap;
+}
+
+.portfolios-item {
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+  width: 400px;
+  position: relative;
+  transition: all .2s ease-in-out;
+  text-align: center;
+}
+
+.portfolios-item {
+  /* max-width: 800px;
+  min-width: 200px;
+  height: 400px; */
+}
+.portfolios-item:hover {
+  transform: scale(1.1);
+}
+
+.portfolios-item:hover .portfolio-item-text-wrap {
+  transform: scale(1.1);
+  transform: translate(30%);
+}
+
+.portfolio-item-text-wrap {
+  position: absolute;
+  background-color: white;
+  left: 0;
+  bottom: 40px;
+  text-align: center;
+  border: 1px solid grey;
+  padding: 8px;
+  transition: all .2s ease-in-out;
+}
+
+.portfolio-item-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.portfolios-item:nth-child(1)  {
+  background-image: url("../img/data-app.png");
+}
+.portfolios-item:nth-child(2)  {
+  background-image: url("../img/business-app.png");
+}
+.portfolios-item:nth-child(3)  {
+  background-image: url("../img/photo-art.png");
+}
+.portfolios-item:nth-child(4)  {
+  background-image: url("../img/ace-site.png");
+}
+.portfolios-item:nth-child(6)  {
+  background-image: url("../img/flower-app.png");
+}
+.portfolios-item:nth-child(7)  {
+  background-image: url("../img/pink-site.png");
+}
+.portfolios-item:nth-child(8)  {
+  background-image: url("../img/studio-m-logo.png");
+}

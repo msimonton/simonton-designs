@@ -1,3 +1,7 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .main-wrapper {
   width: 100%;
   padding: 0px;
@@ -5,29 +9,60 @@
   overflow: hidden;
 }
 
-.header-container {
-  width: 100%;
+
+
+.bg-light {
+  background-color: white !important;
+  margin-top: 20px !important;
+  margin-bottom: -40px;
 }
 
-.header {
-  width: 100%;
-  /* padding: 0px 20px 0px 20px; */
-  margin-left: 50px;
-  margin-top: 30px;
+
+.navbar {
+
 }
 
-.simo-designs-header-wrapper {
-  font-size: 32px;
-}
 
-.simo-designs-header-name {
+.navbar-brand {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: grey;
-  font-size: calc(1rem + .95vw);
+  color: grey !important;
+  font-size: calc(1rem + 1vw);
   font-weight: bold;
-  /* font-size: 30px; */
 }
+
+#navbarItemWrapper {
+  width: 100%;
+  /* justify-content: space-around; */
+  flex-grow: 1;
+
+}
+
+/* .navbar-link-wrapper {
+  display: flex;
+  justify-content: space-around;
+  font-size: calc(1rem + .1vw);
+} */
+
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.nav-link {
+  font-size: 20px;
+}
+
+.current-tab {
+  /* color: #ea3e3e; */
+  color:#ea3e3e !important;
+}
+
+
+
+
+
 
 .menu-wrapper {
   width: 100%;
@@ -49,10 +84,14 @@
   color: gray;
 }
 
+
+
+
 .landing-quote {
   width: 100%;
   font-size: 80px;
   margin-bottom: 30px;
+  margin-top: 50px;
 }
 
 .landing-quote h1 {
@@ -204,5 +243,6 @@
   width: 100%;
   height: 70px;
   background-color: #ececec;
+  margin: 0px;
   margin-top: 40px;
 }
