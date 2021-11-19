@@ -1,197 +1,233 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="" />
-    <!-- <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
-    <link rel="stylesheet" type="text/css" href="css/ux-design.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.6.1/dist/simpleParallax.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
-    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <link rel="stylesheet" type="text/css" href="css/designn.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
   </head>
-  <body style="margin: 0; background: #ffffff">
-    <input type="hidden" id="anPageName" name="page" value="ux-design" />
-    <div class="container-center-horizontal">
-      <div class="ux-design screen">
-        <img class="unicycler2-CT5fxG" src="img/unicycler2@1x.png" />
-        <div class="foot-CT5fxG">
-          <div class="icons-U7rwpn">
-            <p class="textlabel-x6gKiy eleganticons-normal-celeste-15px">
-              <span class="span0-JFDtI0 eleganticons-normal-celeste-15px"> </span
-              ><span class="span1-JFDtI0 eleganticons-normal-black-15px"></span
-              ><span class="span2-JFDtI0 eleganticons-normal-celeste-15px">   </span>
-            </p>
-          </div>
-          <div class="text-U7rwpn">
-            <p class="x2021-simonton-d-rights-reserved-CHshKB montserrat-normal-mine-shaft-16px">
-              © 2021 Simonton Designs, LLC. All Rights Reserved
-            </p>
-          </div>
-          <img class="logo-U7rwpn" src="img/logo-1@1x.png" />
-          <div class="line-U7rwpn">
-            <div class="line-JJWkla"></div>
-          </div>
-        </div>
-        <div class="ux-design-CT5fxG montserrat-bold-black-80px">UX DESIGN</div>
-        <div class="our-process-CT5fxG montserrat-bold-black-80px">OUR PROCESS</div>
-        <div class="widget-wrapper-CT5fxG">
-          <img class="screen-shot-202-22-at-102238-am-HMqkL0" src="img/screen-shot-2021-10-22-at-10-22-38-am@1x.png" />
-          <script>
-            window.addEventListener("load", function () {
-              var image = document.querySelectorAll(".screen-shot-202-22-at-102238-am-HMqkL0");
-              new simpleParallax(image, {
-                orientation: "down",
-                scale: 1.2,
-                overflow: false,
-                delay: 0.4,
-                transition: "cubic-bezier(0,0,1,1)",
-              });
+  <body style="margin: 0; width: 100%; background: #ffffff; padding: 0px;">
+
+
+
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+      <a class="navbar-brand" href="index.html">SIMONTON DESIGNS, LLC</a>
+      <button class="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarItemWrapper"
+              aria-controls="navbarItemWrapper"
+              aria-expanded="false"
+              aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarItemWrapper">
+        <ul class="navbar-nav ml-auto mt-2 mt-lg-0 flex-nowrap">
+          <li class="nav-item">
+            <a class="nav-link " href="home.html">HOME</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="portfolioo.html">PORTFOLIO</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link current-tab" href="designn.html">UX DESIGN</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="blog.html">BLOG</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">CONTACT US</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+
+    <div class="design-main-wrapper">
+      <div class="design-landing-wrapper">
+        <h1 class="design-landing-text">UX DESIGN</h1>
+      </div>
+
+      <div class="process-wrapper">
+        <h2 class="process-header">OUR PROCESS</h2>
+
+
+
+
+
+
+
+      <div class="widget-wrapper-CT5fxG parallax-item">
+
+        <img class="screen-shot-202-22-at-102238-am-HMqkL0" src="img/parallax/question-mark.png" />
+        <script>
+          window.addEventListener("load", function () {
+            var image = document.querySelectorAll(".screen-shot-202-22-at-102238-am-HMqkL0");
+            new simpleParallax(image, {
+              orientation: "down left",
+              scale: 1.2,
+              overflow: false,
+              delay: 0.4,
+              transition: "cubic-bezier(0,0,1,1)",
             });
-          </script>
-        </div>
-        <div class="widget-wrapper-xZ6dng">
-          <img class="empathize2-Z260UK" src="img/empathize2@1x.png" />
-          <script>
-            window.addEventListener("load", function () {
-              var image = document.querySelectorAll(".empathize2-Z260UK");
-              new simpleParallax(image, {
-                orientation: "down right",
-                scale: 1.2,
-                overflow: false,
-                delay: 0.4,
-                transition: "cubic-bezier(0,0,1,1)",
-              });
+          });
+        </script>
+      </div>
+
+      <div class="widget-wrapper-xZ6dng parallax-item">
+
+        <img class="empathize2-Z260UK" src="img/parallax/empathize.png" />
+        <script>
+          window.addEventListener("load", function () {
+            var image = document.querySelectorAll(".empathize2-Z260UK");
+            new simpleParallax(image, {
+              orientation: "down right",
+              scale: 1.2,
+              overflow: false,
+              delay: 0.4,
+              transition: "cubic-bezier(0,0,1,1)",
             });
-          </script>
-        </div>
-        <div class="widget-wrapper-xeXsi0">
-          <img class="ideate-pY66R2" src="img/ideate@1x.png" />
-          <script>
-            window.addEventListener("load", function () {
-              var image = document.querySelectorAll(".ideate-pY66R2");
-              new simpleParallax(image, {
-                orientation: "down left",
-                scale: 1.2,
-                overflow: false,
-                delay: 0.4,
-                transition: "none",
-              });
+          });
+        </script>
+      </div>
+
+      <div class="widget-wrapper-VxXme7 parallax-item">
+
+        <img class="wireframing-72jOo9" src="img/parallax/wireframing.png" />
+        <script>
+          window.addEventListener("load", function () {
+            var image = document.querySelectorAll(".wireframing-72jOo9");
+            new simpleParallax(image, {
+              orientation: "down left",
+              scale: 1.2,
+              overflow: false,
+              delay: 0.4,
+              transition: "none",
             });
-          </script>
-        </div>
-        <div class="widget-wrapper-VxXme7">
-          <img class="wireframing-72jOo9" src="img/wireframing@1x.png" />
-          <script>
-            window.addEventListener("load", function () {
-              var image = document.querySelectorAll(".wireframing-72jOo9");
-              new simpleParallax(image, {
-                orientation: "down right",
-                scale: 1.2,
-                overflow: false,
-                delay: 0.4,
-                transition: "none",
-              });
+          });
+        </script>
+      </div>
+
+
+      <div class="widget-wrapper-FcIHCE parallax-item">
+
+        <img class="prototype-Vo4FZ1" src="img/parallax/prototype.png" />
+        <script>
+          window.addEventListener("load", function () {
+            var image = document.querySelectorAll(".prototype-Vo4FZ1");
+            new simpleParallax(image, {
+              orientation: "down right",
+              scale: 1.2,
+              overflow: false,
+              delay: 0.4,
+              transition: "none",
             });
-          </script>
-        </div>
-        <div class="widget-wrapper-VHjqsx">
-          <img class="mockup-xoJ5C2" src="img/mockup@1x.png" />
-          <script>
-            window.addEventListener("load", function () {
-              var image = document.querySelectorAll(".mockup-xoJ5C2");
-              new simpleParallax(image, {
-                orientation: "down left",
-                scale: 1.2,
-                overflow: false,
-                delay: 0.4,
-                transition: "none",
-              });
+          });
+        </script>
+      </div>
+
+
+      <div class="widget-wrapper-JArohK parallax-item">
+
+        <img class="test-7xsW1l" src="img/parallax/test.png" />
+        <script>
+          window.addEventListener("load", function () {
+            var image = document.querySelectorAll(".test-7xsW1l");
+            new simpleParallax(image, {
+              orientation: "down left",
+              scale: 1.2,
+              overflow: false,
+              delay: 0.4,
+              transition: "none",
             });
-          </script>
-        </div>
-        <div class="widget-wrapper-FcIHCE">
-          <img class="prototype-Vo4FZ1" src="img/prototype@1x.png" />
-          <script>
-            window.addEventListener("load", function () {
-              var image = document.querySelectorAll(".prototype-Vo4FZ1");
-              new simpleParallax(image, {
-                orientation: "down right",
-                scale: 1.2,
-                overflow: false,
-                delay: 0.4,
-                transition: "none",
-              });
+          });
+        </script>
+      </div>
+
+      <div class="widget-wrapper-YCUp9O parallax-item">
+
+        <img class="iterate-i2aE8a" src="img/parallax/iterate.png" />
+        <script>
+          window.addEventListener("load", function () {
+            var image = document.querySelectorAll(".iterate-i2aE8a");
+            new simpleParallax(image, {
+              orientation: "down right",
+              scale: 1.3,
+              overflow: false,
+              delay: 0.4,
+              transition: "none",
             });
-          </script>
-        </div>
-        <div class="widget-wrapper-JArohK">
-          <img class="test-7xsW1l" src="img/test@1x.png" />
-          <script>
-            window.addEventListener("load", function () {
-              var image = document.querySelectorAll(".test-7xsW1l");
-              new simpleParallax(image, {
-                orientation: "down left",
-                scale: 1.2,
-                overflow: false,
-                delay: 0.4,
-                transition: "none",
-              });
+          });
+        </script>
+      </div>
+
+
+      <div class="widget-wrapper-RB47e2 parallax-item">
+
+        <img class="test-more-6Yu4xA" src="img/parallax/testMore.png" />
+        <script>
+          window.addEventListener("load", function () {
+            var image = document.querySelectorAll(".test-more-6Yu4xA");
+            new simpleParallax(image, {
+              orientation: "up",
+              scale: 1.2,
+              overflow: false,
+              delay: 0.4,
+              transition: "none",
             });
-          </script>
+          });
+        </script>
+      </div>
+
+
+
+    </div>
+
+    <div class="case-study-wrapper row">
+      <div class="col-0 col-md-2"></div>
+      <div class="col-12 col-md-6">
+        <img src="img/case-study.png" alt="case study image">
+      </div>
+      <div class="col-8 col-md-3 case-study-link">
+        <div class="case-study-button">
+          <a class="case-study-linker" href="https://lizsimontonux.com/ux-design-case-study-florist-ordering-app/" target="_blank">SEE OUR UX CASE STUDIES></a>
         </div>
-        <div class="widget-wrapper-YCUp9O">
-          <img class="iterate-i2aE8a" src="img/iterate@1x.png" />
-          <script>
-            window.addEventListener("load", function () {
-              var image = document.querySelectorAll(".iterate-i2aE8a");
-              new simpleParallax(image, {
-                orientation: "down right",
-                scale: 1.2,
-                overflow: false,
-                delay: 0.4,
-                transition: "none",
-              });
-            });
-          </script>
-        </div>
-        <div class="widget-wrapper-RB47e2">
-          <img class="test-more-6Yu4xA" src="img/test-more@1x.png" />
-          <script>
-            window.addEventListener("load", function () {
-              var image = document.querySelectorAll(".test-more-6Yu4xA");
-              new simpleParallax(image, {
-                orientation: "up",
-                scale: 1.2,
-                overflow: false,
-                delay: 0.4,
-                transition: "none",
-              });
-            });
-          </script>
-        </div>
-        <img class="screen-shot-202-22-at-92623-am-CT5fxG" src="img/screen-shot-2021-10-22-at-9-26-23-am@1x.png" />
-        <img class="path-3-CT5fxG" src="img/path-3@1x.png" />
-        <a href="https://lizsimontonux.com/ux-design-case-study-florist-ordering-app/"
-          ><div class="see-our-ux-case-studies-CT5fxG montserrat-normal-white-36px">SEE OUR UX CASE STUDIES&gt;</div></a
-        ><a href="contact-us.html">
-          <div class="desktop-top-menu-CT5fxG">
-            <div class="simonton-designs-llc-5OgATl montserrat-bold-dove-gray-36px">SIMONTON DESIGNS, LLC</div>
-            <a href="home.html" onclick="window.event.stopPropagation()"
-              ><div class="home-5OgATl montserrat-normal-dove-gray-24px">HOME</div></a
-            ><a href="portfolio.html" onclick="window.event.stopPropagation()"
-              ><div class="portfolio-5OgATl montserrat-normal-dove-gray-24px">PORTFOLIO</div></a
-            >
-            <div class="ux-design-5OgATl montserrat-normal-persian-red-24px">UX DESIGN</div>
-            <a href="blog.html" onclick="window.event.stopPropagation()"
-              ><div class="blog-5OgATl montserrat-normal-dove-gray-24px">BLOG</div></a
-            ><a href="contact-us.html" onclick="window.event.stopPropagation()"
-              ><div class="contact-5OgATl montserrat-normal-dove-gray-24px">CONTACT</div></a
-            >
-          </div></a
-        >
       </div>
     </div>
+
+
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+    <div class="footer row">
+      <span>© 2021 Simonton Designs, LLC. All Rights Reserved</span>
+    </div>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
   </body>
 </html>

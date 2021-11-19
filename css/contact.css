@@ -1,0 +1,47 @@
+
+.contact-main {
+  text-align: center;
+}
+
+
+.contact-header {
+  margin-top: 60px;
+  font-weight: 600;
+}
+
+.contact-left {
+  text-align: left;
+}
+
+.contact-left > h3 {
+  text-align: center;
+}
+
+.contact-left > p {
+  padding: 20px 30px 20px 10px
+}
+
+.contact-icon {
+  height: 50px;
+  display: inline-block;
+  padding: 10px;
+}
+
+.contact-line {
+  display: inline-block;
+  padding: 10px;
+  padding-top: 17px;
+}
+
+.contact-right {
+  padding: 20px 15px 20px 15px;
+}
+
+.input-fields {
+  width: 90%;
+  margin-bottom: 15px;
+}
+
+label {
+  font-size: 18px;
+}
